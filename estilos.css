@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    padding: 15px 25px;
+}
+
+.cartao {
+    width: 260;
+    height: 200;
+}
+
+.cartao-imagem {
+    width: 100%;
+}
